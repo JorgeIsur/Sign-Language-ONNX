@@ -1,0 +1,20 @@
+item { 
+	name:'Hola'
+	id:1
+}
+item { 
+	name:'Gracias'
+	id:2
+}
+item { 
+	name:'Si'
+	id:3
+}
+item { 
+	name:'No'
+	id:4
+}
+item { 
+	name:'Te amo'
+	id:5
+}

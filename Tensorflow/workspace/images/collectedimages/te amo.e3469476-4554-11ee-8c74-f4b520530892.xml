@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>te amo.e3469476-4554-11ee-8c74-f4b520530892.jpg</filename>
+	<path>/home/isur/Documents/Git/RealTimeObjectDetection/Tensorflow/workspace/images/collectedimages/te amo.e3469476-4554-11ee-8c74-f4b520530892.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Te amo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>313</xmin>
+			<ymin>197</ymin>
+			<xmax>481</xmax>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+</annotation>
